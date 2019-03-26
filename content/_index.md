@@ -2,26 +2,13 @@
 title: Home
 ---
 
-# Hello World! (It works!)
+**Toto téma má za cíl pøedstavit lidem, co to vlastnì K-pop je a o jaký styl hudby se vlastnì jedná, jaké jsou jeho klady a zápory a dùvody toho, proè se stává tak oblíbeným hudebním žánrem po celém svìtì.**
 
-This are the contents of the Hugo start website front page.
+V posledních 20 letech se v Jihokorejské republice objevuje nový styl populární hudby, který dostal název K-pop. Jedná se o jednotlivce èi chlapecké nebo dívèí skupiny a kapely.<br>
+A díky osobitému stylu hudby, propracovaným taneèním choreografiím a pùsobivým hudebním videoklipùm si tento styl pomalu, ale jistì získává fanoušky nejen v Koreji, ale po celém svìtì. Korejské skupiny zaèínají vystupovat na amerických hudebních scénách a poøádají velká svìtová turné a postupnì dobývají svìt.
 
-## Something to read: Sonnet LXVI.
-
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+## Zdroje
+1. https://cs.wikipedia.org/wiki/K-pop
+2. http://www.asianstyle.cz/kultura/hudba
+3. https://www.urbandictionary.com/define.php?term=K-pop
 
