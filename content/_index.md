@@ -1,5 +1,5 @@
 ---
-title: Home
+title: K-pop
 ---
 
 **Toto tema ma za cil predstavit lidem, co to vlastne K-pop je a o jaky styl hudby se vlastny jedna, jake jsou jeho klady a zapory a duvody toho, proc se stava tak oblibenym hudebnim zanrem po celem svete.**
