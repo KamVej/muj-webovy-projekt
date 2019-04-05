@@ -6,7 +6,8 @@ tags:
     - projekt
     - K-pop
 ---
+<iframe src="https://www.britannica.com/art/Korean-music" style="border:1px #ffffff solid;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="650px" allowfullscreen></iframe>
 
-## What's next?
+## Proč zrovna toto?
 
-See [another post]({{< ref "another-post.md" >}}) or head back to [homepage](../../). (Check this paragraph to see the magic behind the between posts.)
+Článek popisuje historii korejské hudby a pro téma našeho projektu se celkem hodí, protože ukazuje, jak se postupem času hudba měnila a jaká základ dala dnešní populární korejské hudbě.
