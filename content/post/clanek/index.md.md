@@ -28,15 +28,15 @@ Dále tu máme dua jako například **TVXQ**, tria (většinou tři členové z 
 
 Kromě hudebních skupin existují i kapely, nejznámější z nich jsou **FT Island**, **CN Blue** a **DAY6**.
 Toto vše byl pouze seznam pouze chlapeckých, či pouze dívčích skupin, máme zde ale i smíšené skupiny, i když jich není mnoho, mezi nejznámější patři **K.A.R.D** a **Akdong Musician**.
-Každý ze členů skupiny má určitou pozici a postavení, které zastupuje:
-+ *leader* - vůdce celé skupiny, nejčastěji nejstarší nebo nejvíce zkušený člen
-+ *main vocal* - hlavní zpěvák, zpívá hlavní melodii a jde v písni slyšet nejvíce
-+ *sub vocal* - vedlejší zpěvák, podpora hlavního zpěváka, většinou zpívá druhý hlas
-+ *raper* - má na starosti rap
-+ *dancer* - tanečník, který většinou vede choreografii
-+ *visual* - člen, který je nejvíce atraktivní, většinou stojí v popředí
-+ *face of the group* - tvář celé skupiny, většinou nejznámější člen
-+ *maknae* - nejmladší člen skupiny
+Každý ze členů skupiny má určitou pozici a postavení, které zastupuje:<br>
+*leader* - vůdce celé skupiny, nejčastěji nejstarší nebo nejvíce zkušený člen<br>
+*main vocal* - hlavní zpěvák, zpívá hlavní melodii a jde v písni slyšet nejvíce<br>
+*sub vocal* - vedlejší zpěvák, podpora hlavního zpěváka, většinou zpívá druhý hlas<br>
+*raper* - má na starosti rap<br>
+*dancer* - tanečník, který většinou vede choreografii<br>
+*visual* - člen, který je nejvíce atraktivní, většinou stojí v popředí<br>
+*face of the group* - tvář celé skupiny, většinou nejznámější člen<br>
+*maknae* - nejmladší člen skupiny
 
 Jednu určitou pozici ve skupině může zastávat více lidí najednou a také naopak jeden člen může zastávat ve skupině více rolí.
 
